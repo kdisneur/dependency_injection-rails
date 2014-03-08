@@ -1,6 +1,5 @@
 $LOAD_PATH.unshift(File.expand_path('../lib', __FILE__))
 require 'dependency_injection_rails/version'
-require 'dependency_injection_rails'
 
 Gem::Specification.new do |spec|
   spec.name          = 'dependency_injection-rails'
