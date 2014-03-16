@@ -1,4 +1,4 @@
-# Dependency Injection for Rails (NOT WORKING FOR NOW)
+# Dependency Injection for Rails
 
 `DependencyInjectionRails` adds a helper method, called `container`, to access to your ruby
 [dependency injection container](https://github.com/kdisneur/dependency_injection-ruby)
